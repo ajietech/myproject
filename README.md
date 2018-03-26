@@ -1,1 +1,1 @@
-_The modern [myproject](http://myproject.ajie.tech/) web application._
+_The [myproject.ajie.tech](http://myproject.ajie.tech/) web application._
